@@ -1,9 +1,9 @@
-##Real Estate Price Analysis – King County, Washington (Tableau Dashboard)
+## Real Estate Price Analysis – King County, Washington (Tableau Dashboard)
 
 This project explores the key factors influencing housing prices in King County, Washington, using a fully interactive Tableau dashboard.
 The goal is to identify patterns, trends, and drivers that help explain why property prices vary significantly across different regions and property characteristics.
 
-##Project Overview
+## Project Overview
 
 This analysis examines:
 
@@ -17,7 +17,7 @@ Distribution of average, median, minimum, and maximum house prices
 
 The dashboard uses multiple interactive visualizations to help users explore how property features impact real estate pricing.
 
-##Key Insights
+## Key Insights
 
 Properties near Lake Washington & Seattle generally show higher prices.
 
@@ -27,7 +27,7 @@ Grade and condition strongly influence valuation trends across construction year
 
 Housing prices vary widely by zipcode, reflecting neighborhood-level market differences.
 
-#Tools & Techniques#
+## Tools & Techniques
 
 Tableau Desktop
 
@@ -42,7 +42,7 @@ Filters, parameters, and interactive controls
 Data cleaning & preprocessing in CSV format
 
 
-#Dashboard Preview#
+## Dashboard Preview
 
 (Add your screenshots here in the GitHub repo — I can format them for you if you want.)
 
