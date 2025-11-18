@@ -42,11 +42,8 @@ Filters, parameters, and interactive controls
 Data cleaning & preprocessing in CSV format
 
 
-## Dashboard Preview
 
-(Add your screenshots here in the GitHub repo — I can format them for you if you want.)
-
-#Purpose of the Project#
+## Purpose of the Project
 
 This dashboard demonstrates:
 
